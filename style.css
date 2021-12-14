@@ -1,0 +1,21 @@
+.grid{
+    width: 250px;
+    height: 200px;
+}
+body{
+    text-align: center;
+    background-color: red;
+}
+#img_1{
+    width: 100%;
+}
+#myCarousel img{
+    height: 350px;
+
+}
+.carousel-inner p{
+margin-bottom: 15px;
+margin-top: 15px;
+color: white;
+font-size: 20px;
+}
